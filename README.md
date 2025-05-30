@@ -31,8 +31,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/xss-scanner.git
-cd xss-scanner
+git clone https://github.com/mrVXBoT/XSS-atack-base.git
+cd XSS-atack-base
 
 # Install dependencies
 pip install -r requirements.txt
